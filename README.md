@@ -1,7 +1,7 @@
 # ic-04
 ic-04 - Intro to HTML and CSS
 
-Link to GitHub Pages: https://github.com/mikaelagordon/ic-04-mikaelagordon
+Link to GitHub Pages: https://github.com/mikaelagordon/ic-04-mikaelagordon.git
 
 ## Purpose
 
